@@ -30,5 +30,4 @@ def get_celsius(fahrenheit):
     """Convert Fahrenheit to Celsius."""
     return (fahrenheit - 32) * 5 / 9
 
-# Call the main function to execute the program
 main()
